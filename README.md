@@ -69,6 +69,6 @@ SPI Communication is used.
 ---
 
 ## 👨‍💻 Authors
-Sanapala Venkata Maneesh
-Suhas Mohan Kumar
-Saransh Mittal 
+-Sanapala Venkata Maneesh<br>
+-Suhas Mohan Kumar<br>
+-Saransh Mittal <br>
