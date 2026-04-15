@@ -91,7 +91,7 @@ Displays scrolling text across LED matrix with different modes and real-time upd
 
 ## 📎 GitHub Repository
 This project is hosted here:
-👉 https://github.com/YOUR_USERNAME/Digital-Notice-Board--MPCA-
+👉 https://github.com/Maneesh36/Digital-Notice-Board--MPCA-
 
 ---
 
